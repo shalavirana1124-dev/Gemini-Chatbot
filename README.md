@@ -84,7 +84,7 @@ The selected theme is saved in localStorage for persistence.
 
    .Usage Instructions
 
-Type a message and press Enter to send.
+7. Type a message and press Enter to send.
 
    .Click the Add File button to attach images or documents.
 
