@@ -29,7 +29,7 @@ The Gemini AI Chatbot is a web-based chatbot interface that allows users to comm
 
 # Setup & Installation:
 
-Clone the repository:git clone https://github.com/your-repo/gemini-ai-chatbot.git
+Clone the repository:git clone https://github.com/shalavirana1124-dev/Gemini-Chatbot 
 
 Navigate to the project directory:
 
